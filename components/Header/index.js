@@ -9,7 +9,7 @@ const Header = () => {
                 <div className="container mx-auto">
                     <Link href="/">
                         <a >
-                            <img className="mx-auto" src="/logo_palpitebox.png" alt="Palpitebox" />
+                            <img className="mx-auto w-40 max-w-xs" src="/logo_palpitebox.png" alt="Palpitebox" />
                         </a>
 
                     </Link>
