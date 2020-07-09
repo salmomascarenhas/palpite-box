@@ -1,6 +1,8 @@
 import { GoogleSpreadsheet } from 'google-spreadsheet';
 import moment from 'moment';
 
+import { fromBase64 } from '../../utils/base64';
+
 
 //AUTH
 const doc = new GoogleSpreadsheet(process.env.SHEET_DOC_ID);
