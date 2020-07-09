@@ -106,5 +106,4 @@ dist
 .tern-port
 
 # Credentials
-sheetAcess/credentials.json
-./credentials.json
+.credentials.json
