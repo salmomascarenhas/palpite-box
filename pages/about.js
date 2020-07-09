@@ -1,11 +1,11 @@
 import React from 'react';
 import Link from 'next/link';
-import Title from '../components/Title';
+import PageTitle from '../components/PageTitle';
 
 const About = () => {
     return (
         <div>
-            <Title title='Sobre' />
+            <PageTitle title='Sobre' />
             <h1>Sobre</h1>
             <Link href='/'>
                 <a>Home</a>
