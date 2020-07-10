@@ -22,7 +22,7 @@ $ npm install
 $ npm run dev
 ```
 
-Open localhost on PORT 3000 to see the apliccation.
+Open localhost on PORT 3000 to see the application.
 
 ### Technologies
 
